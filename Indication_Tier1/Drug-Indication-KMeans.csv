@@ -1,0 +1,440 @@
+,cluster-label,drug
+0,0.0,lubiprostone
+1,1.0,doxylamine succinate
+2,1.0,fexofenadine hydrochloride
+3,1.0,loratadine
+4,1.0,epinastine
+5,2.0,tenofovir alafenamide
+6,2.0,paritaprevir
+7,2.0,sofosbuvir
+8,2.0,valacyclovir hydrochloride
+9,2.0,oseltamivir (phosphate)
+10,2.0,valacyclovir (hydrochloride)
+11,2.0,rimantadine hydrochloride
+12,3.0,sulfacetamide
+13,3.0,moxifloxacin hydrochloride
+14,3.0,nalidixic acid
+15,3.0,sulfadiazine
+16,3.0,sulfamethizole
+17,3.0,nitrofurantoin
+18,3.0,trimethoprim
+19,3.0,sulfamethoxazole
+20,3.0,tedizolid
+21,3.0,tazobactam
+22,3.0,levofloxacin
+23,3.0,piperacillin (sodium)
+24,4.0,bendroflumethiazide
+25,4.0,enalaprilat (dihydrate)
+26,4.0,clonidine hydrochloride
+27,4.0,azilsartan medoxomil
+28,4.0,doxazosin mesylate
+29,4.0,azilsartan
+30,4.0,carvedilol
+31,4.0,clonidine (hydrochloride)
+32,5.0,metolazone
+33,5.0,chlorthalidone
+34,5.0,chlorothiazide
+35,5.0,furosemide
+36,5.0,eplerenone
+37,5.0,ethacrynic acid
+38,5.0,bumetanide
+39,5.0,hydrochlorothiazide
+40,5.0,amiloride hydrochloride
+41,5.0,indapamide
+42,6.0,tenofovir
+43,6.0,raltegravir
+44,6.0,ritonavir
+45,6.0,lopinavir
+46,6.0,tenofovir disoproxil
+47,6.0,nelfinavir
+48,7.0,lansoprazole
+49,7.0,famotidine
+50,7.0,rabeprazole (sodium)
+51,7.0,ranitidine (hydrochloride)
+52,7.0,pantoprazole (sodium)
+53,7.0,omeprazole
+54,7.0,clidinium bromide
+55,8.0,aspirin
+56,8.0,(r)-(-)-ibuprofen
+57,8.0,(s)-(+)-ibuprofen
+58,8.0,celecoxib
+59,8.0,diclofenac
+60,9.0,mometasone furoate
+61,9.0,deflazacort
+62,9.0,palmidrol [5mm]
+63,9.0,dexamethasone acetate
+64,9.0,hydrocortisone hemisuccinate
+65,9.0,hydrocortisone 17-butyrate
+66,9.0,methylprednisolone
+67,9.0,apremilast
+68,9.0,prednisolone
+69,9.0,hydrocortisone acetate
+70,9.0,hydrocortisone
+71,9.0,mesalamine
+72,10.0,repaglinide
+73,10.0,pioglitazone hydrochloride
+74,10.0,sitagliptin
+75,10.0,tolazamide
+76,10.0,saxagliptin
+77,11.0,propranolol hydrochloride (+/-)
+78,11.0,pindolol
+79,11.0,atenolol
+80,12.0,duvelisib (ipi-145_ ink1197)
+81,12.0,erlotinib (hydrochloride)
+82,12.0,decitabine
+83,12.0,bosutinib
+84,12.0,acalabrutinib
+85,12.0,gefitinib (zd1839)
+86,12.0,genistein
+87,12.0,capmatinib
+88,13.0,phenelzine sulfate
+89,13.0,sertraline (hydrochloride)
+90,13.0,moclobemide
+91,13.0,mianserin hydrochloride
+92,14.0,dicyclomine hydrochloride
+93,14.0,propantheline bromide
+94,15.0,probucol
+95,16.0,naphazoline hydrochloride
+96,17.0,stiripentol
+97,17.0,pregabalin hydrochloride
+98,17.0,rufinamide
+99,17.0,levetiracetam
+100,18.0,(s)-rasagiline
+101,18.0,ropinirole (hydrochloride)
+102,18.0,pergolide (mesylate)
+103,18.0,bromocriptine (mesylate)
+104,18.0,istradefylline
+105,18.0,safinamide
+106,19.0,fluticasone (propionate)
+107,19.0,zafirlukast
+108,19.0,beclometasone dipropionate
+109,20.0,umeclidinium (bromide)
+110,20.0,metaproterenol
+111,20.0,theophylline
+112,20.0,albuterol
+113,20.0,salmeterol
+114,21.0,dydrogesterone
+115,21.0,estradiol benzoate
+116,21.0,progesterone
+117,21.0,estradiol
+118,21.0,estradiol (cypionate)
+119,21.0,estradiol cypionate
+120,21.0,estradiol valerianate
+121,22.0,mefloquine
+122,22.0,tafenoquine (succinate)
+123,22.0,pyrimethamine
+124,23.0,ranolazine
+125,23.0,pentoxifylline
+126,23.0,phentolamine hydrochloride
+127,24.0,eicosapentaenoic acid
+128,24.0,clopidogrel
+129,24.0,clopidogrel sulfate
+130,25.0,cefepime (dihydrochloride monohydrate)
+131,25.0,cefuroxime (sodium)
+132,25.0,fusidic acid
+133,25.0,aztreonam
+134,25.0,azithromycin
+135,25.0,cefaclor
+136,25.0,amoxicillin
+137,25.0,ciprofloxacin
+138,25.0,clarithromycin
+139,25.0,gramicidin 
+140,25.0,clindamycin (hydrochloride)
+141,25.0,clindamycin hydrochloride
+142,25.0,cefditoren (pivoxil)
+143,25.0,cefuroxime axetil
+144,25.0,amoxicillin (sodium)
+145,25.0,enoxacin
+146,26.0,tramadol hydrochloride
+147,26.0,nefopam
+148,27.0,levamisole (hydrochloride)
+149,27.0,pyrantel (tartrate)
+150,27.0,triclabendazole
+151,27.0,mebendazole
+152,28.0,isosorbide dinitrate
+153,28.0,nicorandil
+154,28.0,regadenoson
+155,28.0,isosorbide mononitrate
+156,29.0,itraconazole hydrochloride
+157,29.0,butenafine (hydrochloride)
+158,29.0,bifonazole
+159,30.0,ondansetron
+160,30.0,trimethobenzamide hydrochloride
+161,30.0,palonosetron (hydrochloride)
+162,30.0,meclizine hydrochloride
+163,31.0,pretomanid
+164,31.0,pyrazinamide
+165,32.0,cyclosporin a
+166,32.0,cyclosporine
+167,33.0,cetylpyridinium chloride
+168,34.0,acetylcysteine
+169,35.0,ticagrelor
+170,35.0,tirofiban (hydrochloride monohydrate)
+171,35.0,prasugrel
+172,36.0,orphenadrine citrate
+173,36.0,metaxalone
+174,36.0,methocarbamol
+175,36.0,chlorzoxazone
+176,37.0,indinavir (sulfate)
+177,37.0,delavirdine (mesylate)
+178,37.0,rilpivirine
+179,37.0,elvitegravir
+180,38.0,rimegepant
+181,39.0,telotristat
+182,39.0,telotristat etiprate
+183,40.0,tasimelteon
+184,40.0,lemborexant
+185,40.0,ramelteon
+186,41.0,acetazolamide
+187,41.0,methazolamide
+188,41.0,(s)-timolol (maleate)
+189,42.0,nicardipine hydrochloride
+190,42.0,nisoldipine
+191,42.0,felodipine
+192,42.0,nifedipine
+193,42.0,nicardipine (hydrochloride)
+194,43.0,tiopronin
+195,44.0,allopurinol
+196,44.0,allopurinol riboside
+197,45.0,benzonatate
+198,45.0,dextromethorphan hydrobromide
+199,46.0,rizatriptan benzoate
+200,46.0,sumatriptan
+201,46.0,zolmitriptan
+202,46.0,naratriptan (hydrochloride)
+203,46.0,eletriptan (hydrobromide)
+204,47.0,cyclizine
+205,48.0,phenylephrine (hydrochloride)
+206,48.0,phenylephrine hydrochloride
+207,49.0,flunisolide
+208,49.0,allantoin
+209,50.0,atovaquone
+210,50.0,nitazoxanide
+211,50.0,nifurtimox
+212,51.0,liothyronine (sodium)
+213,51.0,liothyronine
+214,52.0,tolterodine (tartrate)
+215,53.0,pirfenidone
+216,54.0,ropivacaine
+217,55.0,tamsulosin
+218,55.0,silodosin
+219,56.0,bethanechol chloride
+220,57.0,sucrose
+221,58.0,vecuronium (bromide)
+222,59.0,fexinidazole
+223,59.0,moxidectin
+224,60.0,azelastine hydrochloride
+225,61.0,amifampridine
+226,61.0,belumosudil
+227,62.0,dapsone
+228,62.0,clofazimine
+229,63.0,folic acid
+230,64.0,cimetidine
+231,64.0,nizatidine
+232,65.0,vitamin k1
+233,66.0,amiodarone hydrochloride
+234,66.0,esmolol (hydrochloride)
+235,67.0,glucosamine hydrochloride
+236,68.0,niacin
+237,69.0,deferoxamine mesylate
+238,70.0,osilodrostat
+239,70.0,methyldopa
+240,70.0,moxonidine
+241,70.0,guanfacine (hydrochloride)
+242,70.0,mecamylamine hydrochloride
+243,70.0,guanfacine hydrochloride
+244,70.0,prazosin hydrochloride
+245,70.0,guanethidine
+246,70.0,hydralazine hydrochloride
+247,70.0,isradipine
+248,70.0,lofexidine  hydrochloride
+249,71.0,dasabuvir
+250,71.0,acyclovir
+251,71.0,ledipasvir
+252,71.0,famciclovir
+253,72.0,hydroxyzine pamoate
+254,72.0,buspirone hydrochloride
+255,73.0,galanthamine
+256,73.0,donepezil hydrochloride
+257,74.0,neostigmine bromide
+258,75.0,alendronate sodium
+259,76.0,urea
+260,77.0,melatonin
+261,78.0,olanzapine
+262,78.0,amisulpride
+263,79.0,aprepitant
+264,80.0,cinacalcet
+265,81.0,venetoclax
+266,81.0,tepotinib (emd 1214063)
+267,81.0,tazemetostat
+268,81.0,s-ruxolitinib (incb018424)
+269,81.0,umbralisib
+270,81.0,ruxolitinib (incb018424)
+271,81.0,tamoxifen (citrate)
+272,81.0,rucaparib (ag-014699 or pf-01367338) phosphate
+273,82.0,eugenol
+274,83.0,glutamine (d)
+275,84.0,aminocaproic acid hydrochloride
+276,85.0,papaverine hydrochloride
+277,86.0,edoxaban
+278,86.0,rivaroxaban
+279,87.0,sodium picosulfate
+280,87.0,naloxegol (oxalate)
+281,88.0,voxelotor
+282,89.0,selexipag
+283,90.0,oxymetazoline hydrochloride
+284,90.0,xylometazoline hydrochloride
+285,90.0,tetrahydrozoline hydrochloride
+286,91.0,inosine
+287,92.0,uridine triacetate
+288,93.0,dexamethasone
+289,93.0,betamethasone dipropionate
+290,94.0,gluconolactone
+291,95.0,zileuton
+292,95.0,revefenacin
+293,96.0,minoxidil 
+294,96.0,minoxidil hydrochloride
+295,97.0,pitolisant (hydrochloride)
+296,98.0,pancuronium (dibromide)
+297,99.0,apixaban
+298,100.0,hesperidin
+299,101.0,carteolol hydrochloride
+300,102.0,biotin
+301,103.0,promethazine hydrochloride
+302,104.0,dobutamine (hydrochloride)
+303,105.0,diroximel fumarate
+304,106.0,cyproheptadine (hydrochloride)
+305,106.0,cyproheptadine hydrochloride
+306,107.0,capsaicin
+307,108.0,etc-1002
+308,109.0,(+)-camphor
+309,110.0,tezacaftor
+310,111.0,sodium salicylate
+311,111.0,ibuprofen
+312,111.0,flurbiprofen
+313,111.0,etoricoxib
+314,111.0,indomethacin
+315,111.0,parecoxib
+316,111.0,naproxen
+317,111.0,ibuprofen piconol
+318,112.0,fluorescein
+319,113.0,mannitol
+320,114.0,chlorpropamide
+321,115.0,riluzole
+322,116.0,cysteamine hydrochloride
+323,117.0,fampridine
+324,118.0,carglumic acid
+325,119.0,nitisinone
+326,120.0,probenecid
+327,121.0,thiamine
+328,122.0,pilocarpine nitrate
+329,123.0,praziquantel
+330,124.0,lumacaftor
+331,125.0,diazoxide
+332,126.0,levocarnitine propionate (hydrochloride)
+333,127.0,retinol
+334,128.0,l-ascorbic acid
+335,129.0,disulfiram
+336,130.0,benoxinate hydrochloride
+337,131.0,α-vitamin e
+338,132.0,tiagabine (hydrochloride)
+339,133.0,silibinin
+340,134.0,febuxostat
+341,135.0,diphenhydramine hydrochloride
+342,136.0,orlistat
+343,137.0,solifenacin (succinate)
+344,138.0,chloroquine phosphate
+345,139.0,varenicline
+346,140.0,carbimazole
+347,141.0,niacinamide
+348,142.0,acetaminophen
+349,143.0,betahistine hydrochloride
+350,144.0,guaiacol
+351,145.0,aminophylline
+352,146.0,cabergoline
+353,147.0,atracurium besylate
+354,148.0,sertaconazole (nitrate)
+355,148.0,miconazole nitrate
+356,148.0,terbinafine hydrochloride
+357,148.0,voriconazole
+358,149.0,darifenacin (hydrobromide)
+359,150.0,adenosine
+360,151.0,dimenhydrinate
+361,152.0,hexylresorcinol
+362,153.0,artesunate
+363,153.0,amodiaquine (dihydrochloride dihydrate)
+364,154.0,anagrelide (hydrochloride)
+365,155.0,tadalafil
+366,156.0,pyridostigmine bromide
+367,157.0,terazosin (hydrochloride dihydrate)
+368,158.0,vortioxetine
+369,159.0,metformin hydrochloride
+370,159.0,gliclazide
+371,159.0,glipizide
+372,159.0,linagliptin
+373,159.0,glyburide
+374,159.0,alogliptin (benzoate)
+375,160.0,relugolix
+376,161.0,mepenzolate bromide
+377,162.0,dipyridamole
+378,163.0,natamycin
+379,164.0,methenamine
+380,165.0,lidocaine hydrochloride
+381,166.0,amantadine hydrochloride
+382,167.0,rapamycin
+383,168.0,verapamil (hydrochloride)
+384,169.0,mebeverine hydrochloride
+385,170.0,metronidazole
+386,171.0,cinnarizine
+387,172.0,domperidone
+388,173.0,cromolyn (sodium)
+389,174.0,reserpine
+390,175.0,glycopyrrolate
+391,176.0,guaifenesin
+392,177.0,alfuzosin hydrochloride
+393,178.0,chlorpheniramine (maleate)
+394,179.0,furazolidone
+395,180.0,ethynyl estradiol
+396,181.0,treprostinil
+397,182.0,sildenafil citrate
+398,183.0,procyclidine hydrochloride
+399,184.0,chlorhexidine dihydrochloride
+400,185.0,spironolactone
+401,185.0,triamterene
+402,185.0,torsemide
+403,186.0,ethambutol (dihydrochloride)
+404,186.0,ethambutol hydrochloride
+405,186.0,ethionamide
+406,186.0,l-cycloserine
+407,186.0,cycloserine (d)
+408,187.0,iloprost
+409,188.0,gemfibrozil
+410,188.0,ezetimibe
+411,188.0,clofibrate
+412,188.0,fenofibrate
+413,188.0,fenofibric acid
+414,189.0,bupivacaine hydrochloride
+415,190.0,benzoic acid
+416,191.0,fostamatinib (r788)
+417,192.0,atazanavir (sulfate)
+418,192.0,etravirine
+419,192.0,dolutegravir
+420,192.0,cobicistat
+421,192.0,darunavir
+422,192.0,emtricitabine
+423,193.0,antazoline
+424,193.0,acrivastine
+425,193.0,clemastine (fumarate)
+426,194.0,dapoxetine (hydrochloride)
+427,194.0,fluoxetine hydrochloride
+428,194.0,agomelatine
+429,195.0,prucalopride (succinate)
+430,196.0,tolbutamide
+431,197.0,almotriptan
+432,198.0,montelukast (sodium)
+433,198.0,ketotifen (fumarate)
+434,199.0,amlodipine besylate
+435,,uridine
+436,,gramicidin (gramicidin a shown)
+437,,d-α-tocopherol acetate
+438,,ethylenediamine tetracetate tetra-ethanolamine
